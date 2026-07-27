@@ -1,5 +1,8 @@
 node_modules/
 dist/
+.pnpm-store/
+outputs/
+work/
 .env
 .env.*
 !.env.example
